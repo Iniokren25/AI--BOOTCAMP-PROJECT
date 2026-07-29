@@ -7,21 +7,21 @@
 
 ## TOOLS USED: Several tools were deploy for this analysis, at the ingestion, data transformation and analysis stage. The raw data was cleaned using tools like TRIM, CLEAN, PROPER, LEN, SORT, Pivot Tables, Visualization etc. 
 
-### DATA CLEANING: Replaced wrong spellings etc. Column entries were also converted to correct data format for data consistency. Cleaned up duplicate and empty entries.
+## DATA CLEANING: Replaced wrong spellings etc. Column entries were also converted to correct data format for data consistency. Cleaned up duplicate and empty entries.
 ### Date column; changed data type of date column to date.  changed the format to numbers form, then changed from numbers form back to date using the preferred style, stay in cell A1, format date to short date, right click and format cell, choose preferred style and copy down.
-#### - region:  =CLEAN(TRIM(PROPER(B2)))
-#### -  product: =PROPER(CLEAN(TRIM(C2)))          (Noted the row with unknown product)
-#### - category: =PROPER(TRIM(CLEAN(CLEAN(D2))))  
-#### - unit sold: changed data type to whole number
-#### - unit price: changed data type to currency
-#### - sales rep: =PROPER(TRIM(CLEAN(G2)))         (Change data type to text)
-#### - customer: =PROPER(TRIM(CLEAN(H2)))        (Change data type to text)
-#### - sales amount: =PRODUCT(E2,F2)                (change data type to currency)
+### - region:  =CLEAN(TRIM(PROPER(B2)))
+### -  product: =PROPER(CLEAN(TRIM(C2)))          (Noted the row with unknown product)
+### - category: =PROPER(TRIM(CLEAN(CLEAN(D2))))  
+### - unit sold: changed data type to whole number
+### - unit price: changed data type to currency
+### - sales rep: =PROPER(TRIM(CLEAN(G2)))         (Change data type to text)
+### - customer: =PROPER(TRIM(CLEAN(H2)))        (Change data type to text)
+### - sales amount: =PRODUCT(E2,F2)                (change data type to currency)
 
 
-### EXPLORATORY DATA ANALYSIS:
+## EXPLORATORY DATA ANALYSIS:
 
-### DATA ANALYSIS:
+## DATA ANALYSIS:
 
 
 
