@@ -25,5 +25,4 @@
 
 
 
-
 ## SUMMARY: The outcome of this analysis is a clean dataset, KPIs metrics tracking, a visual dashboard highlighting performance by each region, products performance, sales reps performance. the dashboard also present opportunities for improvement and assist D-lite electronic makes data driven decision that will improve sales; and bring effectiveness and efficiency into the overall business operations of the company
