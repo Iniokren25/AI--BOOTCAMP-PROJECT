@@ -1,7 +1,7 @@
 # AI-BOOTCAMP PROJECT
 ## PROJECT TOPIC: SALES ANALYSIS OF D-LITE ELECTRONICS LIMITED
 
-## PROJECT OVERVIEW: D-Lite Electronics Limited operates across the four major regions in Nigeria; the North, South, East and West of the country. Due to the inconsistent nature of the data, management were not able to draw proper insight, thus, this project seek to establish how various factors influence sales performance within the four regions of the country through data cleaning, data analysis, data visualization and providing recommendaions.
+## PROJECT OVERVIEW: D-Lite Electronics Limited operates across the four major regions in Nigeria; the North, South, East and West of the country. Due to the inconsistent nature of the data, management were not able to draw proper insight, thus, this project seek to establish how various factors influence sales performance within the four regions of the country through data cleaning, data analysis, data visualization and providing recommendaions. A total of 14 customers, 10 sales reps, 6 categories and 8 products were considered for this analysis.
 
 ## DATA SOURCE: Data for this work was provided as part of the resource material during AI Bootcamp training. 
 
@@ -19,7 +19,7 @@
 ### - sales amount: =PRODUCT(E2,F2)                (change data type to currency)
 
 
-## EXPLORATORY DATA ANALYSIS: Add D-LITE analysis PDF
+## EXPLORATORY DATA ANALYSIS:
 
 ## DATA ANALYSIS:
 
