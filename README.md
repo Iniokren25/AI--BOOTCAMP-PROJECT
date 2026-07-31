@@ -19,7 +19,8 @@
 ### - sales amount: =PRODUCT(E2,F2)                (change data type to currency)
 
 
-## EXPLORATORY DATA ANALYSIS:
+## EXPLORATORY DATA ANALYSIS: 
+
 
 ## DATA ANALYSIS:
 
